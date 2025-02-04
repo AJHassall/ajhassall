@@ -1,8 +1,8 @@
-<p align="center">Software Developer</p>
+<p align="left">Software Developer</p>
 
 ###
 
-<p align="left">full stack developer with 3 years experience</p>
+<p align="left">full stack software developer with 3 years experience</p>
 
 ###
 
